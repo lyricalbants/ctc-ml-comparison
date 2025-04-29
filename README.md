@@ -1,10 +1,6 @@
 # ctc-ml-comparison
 ## 🚀 Quick Setup & Run
 
-Open a terminal and paste everything below:
-
-## 🚀 Quick Setup & Run
-
 Open a terminal and paste the whole block:
 
 ```bash
